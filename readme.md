@@ -64,7 +64,7 @@ yarn android
 
 O aplicativo abrirá automaticamente ao fim do comando npm/yarn android.
 
---
+---
 
 ## 📃 Licença
 
